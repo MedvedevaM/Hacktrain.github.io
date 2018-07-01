@@ -63,7 +63,8 @@
     font-size: 2.2rem;
   }
 
-  .navigation li {
+  .navigation li,
+  .map {
     display: none;
   }
 
@@ -125,10 +126,12 @@
   }
 
   .logos,
-  .questions,
-  .about p,
-  .map {
+  .questions {
     width: 300px;
+  }
+
+  .about p {
+    width: 280px;
   }
 
   .photos_of_speakers {
