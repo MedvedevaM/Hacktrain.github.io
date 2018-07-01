@@ -1,0 +1,161 @@
+@media screen and (max-width: 959px) {
+  html {
+    font-size: 8px;
+  }
+
+  header {
+    height: 60px;
+  }
+
+  h2.title_of_animation_of_train {
+    padding-top: 150px;
+  }
+
+  .button_registration {
+    margin-top: 10px;
+  }
+
+  .animation_of_train {
+    height: 500px;
+  }
+
+  .img_of_train {
+    top: 310px;
+  }
+
+  .img_of_house_1 {
+    top: 220px;
+    height: 280px;
+  }
+
+  .img_of_house_2 {
+    top: 170px;
+    height: 330px;
+  }
+
+  .img_of_bottom {
+    top: 390px;
+    height: 110px;
+  }
+
+  .button_registration {
+    width: 220px;
+  }
+
+  .photos_of_speakers {
+    width: 720px;
+  }
+
+  .speaker {
+    width: 180px;
+    padding: 15px;
+  }
+
+  .logos_of_partners {
+    width: 720px;
+  }
+}
+
+@media screen and (max-width: 739px) {
+
+  h2.title_of_animation_of_train {
+    padding-top: 70px;
+    font-size: 2.2rem;
+  }
+
+  .navigation li {
+    display: none;
+  }
+
+  .navigation {
+    margin: 0;
+  }
+
+  .navigation li:last-child {
+    display: block;
+    padding: 25px 10px;
+  }
+
+  .menu_for_mobile img {
+    height: 15px;
+  }
+
+  .animation_of_train {
+    height: 300px;
+  }
+
+  .img_of_train {
+    top: 155px;
+  }
+
+  .img_of_house_1 {
+    top: 140px;
+    height: 160px;
+  }
+
+  .img_of_house_2 {
+    top: 120px;
+    height: 180px;
+  }
+
+  .img_of_bottom {
+    top: 239px;
+    height: 61px;
+  }
+
+  .button_registration {
+    width: 220px;
+    margin-top: 160px;
+  }
+
+  h3 {
+    padding: 10px;
+  }
+
+  .logos {
+    margin-top: 80px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+  }
+
+  .logos img {
+    margin: 10px;
+    height: 20px;
+  }
+
+  .logos,
+  .questions,
+  .about p,
+  .map {
+    width: 300px;
+  }
+
+  .photos_of_speakers {
+    width: 300px;
+  }
+
+  .speaker {
+    width: 80px;
+    padding: 5px;
+  }
+
+  .logos_of_partners {
+    width: 300px;
+  }
+
+  .logos_of_partners img {
+    height: 30px;
+    padding: 15px;
+  }
+
+  img[alt="logo of nikofirm"] {
+    height: 40px;
+  }
+
+  .logos_of_partners img[alt="logo imaguru"],
+  .logos_of_partners img[alt="logo LIAA"],
+  img[alt="logo of keepsolid"] {
+    height: 15px;
+  }
+}
